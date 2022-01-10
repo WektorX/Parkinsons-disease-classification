@@ -1,0 +1,2 @@
+# Parkinsons-disease-classification
+ University project aimed at the classification of people with Parkinson's - the classification is based on the Parkinson's Data Set, which includes a record of voice measurements of 31 people, 23 of whom have Parkinson's. Each column is a specific measure of votes, and each row is one of 195 recordings taken from the respondents. The collection has a status column, which informs us whether the recordings belong to a sick (1) or healthy (0) person. During our classification, we will just want to predict the value for this column.
